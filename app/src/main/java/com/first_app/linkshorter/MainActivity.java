@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
 
 //    @Override
 //    protected void onDestroy() {
-//        System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
+//        System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
 ////        saveDbVersion();
 //        dbHelper.deleteDataBase();
 //        super.onDestroy();
