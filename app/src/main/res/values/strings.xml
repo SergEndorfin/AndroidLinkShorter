@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LinkShorter</string>
+    <string name="app_label">Сокращение ссылок</string>
+    <string name="btn_label">Сократить</string>
+    <string name="short_link">Короткая ссылка</string>
+    <string name="long_link">Полная ссылка</string>
+    <string name="text_label">Сокращение:</string>
+
+</resources>
